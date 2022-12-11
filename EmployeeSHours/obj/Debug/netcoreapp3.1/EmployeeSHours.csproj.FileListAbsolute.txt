@@ -1,0 +1,14 @@
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\bin\Debug\netcoreapp3.1\EmployeeSHours.exe
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\bin\Debug\netcoreapp3.1\EmployeeSHours.deps.json
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\bin\Debug\netcoreapp3.1\EmployeeSHours.runtimeconfig.json
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\bin\Debug\netcoreapp3.1\EmployeeSHours.runtimeconfig.dev.json
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\bin\Debug\netcoreapp3.1\EmployeeSHours.dll
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\bin\Debug\netcoreapp3.1\EmployeeSHours.pdb
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\obj\Debug\netcoreapp3.1\EmployeeSHours.csproj.AssemblyReference.cache
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\obj\Debug\netcoreapp3.1\EmployeeSHours.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\obj\Debug\netcoreapp3.1\EmployeeSHours.AssemblyInfoInputs.cache
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\obj\Debug\netcoreapp3.1\EmployeeSHours.AssemblyInfo.cs
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\obj\Debug\netcoreapp3.1\EmployeeSHours.csproj.CoreCompileInputs.cache
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\obj\Debug\netcoreapp3.1\EmployeeSHours.dll
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\obj\Debug\netcoreapp3.1\EmployeeSHours.pdb
+D:\ProjetosTreino\EmployeeSHours\EmployeeSHours\obj\Debug\netcoreapp3.1\EmployeeSHours.genruntimeconfig.cache
